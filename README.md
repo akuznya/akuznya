@@ -30,19 +30,19 @@
 
 # 📂 Репозитории
 
-🧪 API Testing
+🧪 [API Testing](https://github.com/akuznya/Postman)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 📦 Swagger Petstore
 🛠 Postman • REST • JS
 📌 CRUD • JSON Validation • API Tests
 
-🗄 SQL Exercises
+🗄 [SQL Exercises](https://github.com/akuznya/SQL-exercises)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 💻 3 учебные базы данных
 🛠 SQL • JOIN • GROUP BY
 📌 40+ практических задач
 
-💛 JavaScript
+💛 [JavaScript](https://github.com/akuznya/JavaScript-exercises)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 📦 Алгоритмы и мини-проекты
 🛠 JS • HTML
