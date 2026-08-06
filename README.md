@@ -88,12 +88,12 @@
 
 | Курс | Статус |
 |------|--------|
-| Yandex Prackticum | ✅ |
-| SQL | ✅ |
-| Тестирование ПО: Postman для тестирования API | ✅ |
-| Тестирование ПО: подготовка к сертификации ISTQB Foundation | ✅ |
-| Основы Git и GitHub | ✅ |
-| PHP | ✅ |
+| [Yandex Prackticum](https://github.com/akuznya/certificates/blob/main/cer_practicum.pdf) | ✅ |
+| [SQL](https://github.com/akuznya/certificates/blob/main/SQLacademy.pdf) | ✅ |
+| [Тестирование ПО: Postman для тестирования API](https://stepik.org/cert/2635815) | ✅ |
+| [Тестирование ПО: подготовка к сертификации ISTQB Foundation](https://stepik.org/cert/2662751) | ✅ |
+| [Основы Git и GitHub](https://stepik.org/cert/3090177) | ✅ |
+| [PHP](https://stepik.org/cert/2964984) | ✅ |
 | Python | ⏳ |
 
 
